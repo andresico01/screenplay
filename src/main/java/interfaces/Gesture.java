@@ -1,4 +1,4 @@
-package task;
+package interfaces;
 
 import com.google.common.collect.ImmutableMap;
 import io.appium.java_client.android.AndroidDriver;
