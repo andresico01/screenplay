@@ -4,7 +4,7 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.annotations.Subject;
 
-import static exception.LoginException.FAIL_MESSAGE;
+import static interfaces.LoginException.FAIL_MESSAGE;
 
 @Subject("Fail the inicial page")
 public class FailLoginMessage implements Question<Boolean> {

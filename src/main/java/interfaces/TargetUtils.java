@@ -1,4 +1,4 @@
-package util;
+package interfaces;
 
 
 import io.appium.java_client.AppiumBy;

@@ -2,10 +2,7 @@ package interfaces;
 
 public enum InicialPag {
 
-
     SHOW_CONTRY("com.androidsample.generalstore:id/spinnerCountry"),
-
-   // SELECT_ARGENTINA("new UiScrollable(new UiSelector()).scrollIntoView(text(\"Argentina\"));"),
 
     SET_NAME("//android.widget.EditText[@text='Enter name here']"),
 
